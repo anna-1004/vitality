@@ -1,0 +1,2 @@
+rootProject.name = "WheelSelection"
+include ':app'
